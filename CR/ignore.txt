@@ -1,0 +1,3 @@
+On créé un fichier .gitignore, placé à la racine, qui contient les lignes suivantes :
+*.pdf
+/tmp/
