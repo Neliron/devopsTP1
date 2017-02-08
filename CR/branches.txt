@@ -1,0 +1,5 @@
+1) git checkout -b fork1
+2) git branch
+3) dans git branch, il s'agit de la branche en vert
+4) git checkout <branch-name>
+5) dans fork1 on a tous les fichiers CR, branchtest et AUTHORS. Dans master on n'a que les fichiers CR et AUTHORS
