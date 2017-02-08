@@ -1,3 +1,6 @@
+Cette commande génère un commit qui va annuler le dernier commit effectué
 git revert HEAD~1..HEAD
 
-Cette commande génère un commit qui va annuler le dernier commit effectué
+Cette commande permet de réinitialiser le fichier à l'état initial du dépôt
+git checkout ./CR/conflit.txt
+
