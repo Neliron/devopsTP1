@@ -1,0 +1,3 @@
+git revert HEAD~1..HEAD
+
+Cette commande génère un commit qui va annuler le dernier commit effectué
