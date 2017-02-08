@@ -4,5 +4,3 @@ on a créé dans fork1 un fichier futurConflit.txt contenant "tata"
 on a commit et push
 on a ensuite fait un merge de fork1 vers master et on a eu un conflit comme attendu
 
-je ne sais pas comment résoudre les conflits
-
