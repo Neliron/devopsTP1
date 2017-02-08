@@ -1,0 +1,7 @@
+git checkout fork2
+git rebase master
+git checkout master
+git log
+git reset --hard 5f2b79c
+
+Il faut mettre à jour la tête du master pour qu'elle pointe vers le dernier commit.
