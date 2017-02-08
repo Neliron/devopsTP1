@@ -1,0 +1,3 @@
+se placer dans la branche master
+git merge <branch to fork>
+editer le commit

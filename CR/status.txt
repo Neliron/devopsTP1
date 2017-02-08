@@ -1,0 +1,5 @@
+modifier un fichier existant (ici AUTHORS) pour qu'il apparaisse dans "Changes not staged for commit"
+créer un fichier ou un dossier sans faire de git add pour qu'il apparaisse dans "Untracked files"
+modifier ou créer un ficher ou un dossier et effectuer un git add pour qu'il apparaisse dans "Changes to be committed"
+
+Un fichier ne peut pas apparaitre dans plus d'une catégorie car ce sont trois états dissociés. Par exemple un fichier ne peut pas être à la fois commité et non commité.
