@@ -1,0 +1,3 @@
+Suggestions :
+	- échanger les étapes 14 et 15 pour plus de cohérence au niveau de la difficulté
+	- préciser le fast-forward (le notre est sûrement un peu brutal)
